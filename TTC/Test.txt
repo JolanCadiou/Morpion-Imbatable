@@ -1,9 +1,9 @@
 Joueur contre joueur :
-2
+0
 Victoires
 0
 Defaites
-2
+0
 Egalites
  
 Joueur vs IA : 
@@ -11,5 +11,5 @@ Joueur vs IA :
 Victoires
 0
 Defaites
-21
+0
 Egalites
