@@ -1,0 +1,7 @@
+C:\Users\JOLAN\Documents\C#\TTC 1.0\TTC 1.0\bin\Debug\TTC 1.0.exe.config
+C:\Users\JOLAN\Documents\C#\TTC 1.0\TTC 1.0\bin\Debug\TTC 1.0.exe
+C:\Users\JOLAN\Documents\C#\TTC 1.0\TTC 1.0\bin\Debug\TTC 1.0.pdb
+C:\Users\JOLAN\Documents\C#\TTC 1.0\TTC 1.0\obj\Debug\TTC 1.0.csprojAssemblyReference.cache
+C:\Users\JOLAN\Documents\C#\TTC 1.0\TTC 1.0\obj\Debug\TTC 1.0.csproj.CoreCompileInputs.cache
+C:\Users\JOLAN\Documents\C#\TTC 1.0\TTC 1.0\obj\Debug\TTC 1.0.exe
+C:\Users\JOLAN\Documents\C#\TTC 1.0\TTC 1.0\obj\Debug\TTC 1.0.pdb

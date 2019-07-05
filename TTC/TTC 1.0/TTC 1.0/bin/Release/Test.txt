@@ -1,0 +1,15 @@
+Joueur contre joueur :
+2
+Victoires
+0
+Defaites
+0
+Egalites
+ 
+Joueur vs IA : 
+0
+Victoires
+0
+Defaites
+15
+Egalites
